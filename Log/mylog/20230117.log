@@ -1,0 +1,13 @@
+2023-01-17 17:41:30,644 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:38] - DEBUG: debug
+2023-01-17 17:41:30,645 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:39] - INFO: info
+2023-01-17 17:41:30,645 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:40] - WARNING: 警告
+2023-01-17 17:41:30,645 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:41] - ERROR: 报错
+2023-01-17 17:41:30,645 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:42] - CRITICAL: 严重
+2023-01-17 17:41:30,645 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:43] - ERROR: error
+2023-01-17 17:52:58,764 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:38] - DEBUG: debug
+2023-01-17 17:52:58,764 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:39] - INFO: info
+2023-01-17 17:52:58,765 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:40] - WARNING: 警告
+2023-01-17 17:52:58,765 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:41] - ERROR: 报错
+2023-01-17 17:52:58,765 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:42] - CRITICAL: 严重
+2023-01-17 17:52:58,765 - /Users/wangzhipeng/PycharmProjects/split/Log/logger.py[line:43] - ERROR: error
+2023-01-17 18:23:28,932 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadDB.py[line:28] - INFO: Connect DB successfully!

@@ -1,0 +1,293 @@
+2023-01-30 10:00:59,581 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadDB.py[line:28] - INFO: Connect DB successfully!
+2023-01-30 10:07:40,261 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:07:40,262 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:07:40,263 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:07:40,263 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:07:40,263 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": "18044866",
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:07:40,263 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:07:40,263 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:07:40,515 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:07:40,515 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:07:40,515 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:07:40,515 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:07:40,515 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:07:40,516 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:07:40,516 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:07:40,701 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:07:40,701 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:07:40,701 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:07:40,701 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:07:40,701 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:07:40,702 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:07:40,702 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:09:28,779 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:09:28,779 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:09:28,779 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:09:28,780 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:09:28,780 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": "18044866",
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:09:28,780 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:09:28,780 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:29:11,278 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:57] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:30:53,629 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:30:53,629 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:30:53,629 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:30:53,629 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:30:53,629 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": "18044866",
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:30:53,629 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:30:53,629 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:30:53,839 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:30:53,881 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:30:53,926 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:30:53,936 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:30:53,936 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:30:53,936 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:30:53,936 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:30:53,937 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:30:53,937 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:30:53,937 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:30:54,065 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:30:54,105 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:30:54,140 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:30:54,149 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:30:54,150 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:30:54,150 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:30:54,150 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:30:54,150 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:30:54,150 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:30:54,150 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:30:54,293 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:30:54,339 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:30:54,382 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:15,536 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:31:15,536 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:31:15,536 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:31:15,536 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:31:15,536 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": "18044866",
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:31:15,536 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:31:15,536 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:31:15,690 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:15,728 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:15,775 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:15,785 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:31:15,785 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:31:15,785 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:31:15,785 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:31:15,785 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:31:15,785 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:31:15,785 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:31:15,919 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:15,963 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:16,000 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:16,009 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:31:16,009 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:31:16,009 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:31:16,009 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:31:16,009 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:31:16,009 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:31:16,009 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:31:16,148 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:16,193 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:16,234 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:32,389 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:31:32,389 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:31:32,389 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:31:32,389 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:31:32,389 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": "18044866",
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:31:32,389 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:31:32,389 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:31:32,535 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:32,575 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:32,622 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:32,631 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:31:32,631 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:31:32,632 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:31:32,632 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:31:32,632 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:31:32,632 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:31:32,632 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:31:32,792 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:32,832 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:32,871 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:32,880 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:31:32,880 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:31:32,880 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:31:32,880 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:31:32,880 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:31:32,880 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:31:32,880 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:31:33,170 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:33,210 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:31:33,243 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:58] - INFO: /Users/wangzhipeng/PycharmProjects/split/GlobalData/test.xlsx 复制数据到 /Users/wangzhipeng/PycharmProjects/split/GlobalData/result.xlsx 成功
+2023-01-30 10:33:18,592 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:33:18,593 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:33:18,593 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:33:18,593 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:33:18,593 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": "18044866",
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:33:18,593 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:33:18,593 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:33:18,857 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:33:18,857 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:33:18,857 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:33:18,857 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:33:18,857 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:33:18,857 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:33:18,858 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:33:19,090 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:33:19,090 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:33:19,090 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:33:19,090 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:33:19,090 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:33:19,090 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:33:19,090 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:35:27,565 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:35:27,565 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:35:27,565 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:35:27,565 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:35:27,565 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": "18044866",
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:35:27,565 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:35:27,565 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:35:27,820 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:35:27,820 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:35:27,820 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:35:27,820 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:35:27,820 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:35:27,820 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:35:27,820 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:35:28,036 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:35:28,036 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:35:28,036 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:35:28,036 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:35:28,036 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:35:28,036 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:35:28,036 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:35:36,767 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:35:36,767 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:35:36,768 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:35:36,768 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:35:36,768 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": "18044866",
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:35:36,768 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:35:36,768 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:35:37,005 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:35:37,005 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:35:37,005 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:35:37,005 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:35:37,005 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:35:37,005 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:35:37,006 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null
+2023-01-30 10:35:37,240 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:28] - INFO: 接口请求地址 ==>> https://aics-cli.dev-dh.com/dh_aics_gate/work/unread_comment_num
+2023-01-30 10:35:37,240 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:29] - INFO: 接口请求方式 ==>> post
+2023-01-30 10:35:37,240 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:31] - INFO: 接口请求头 headers参数 ==>> None
+2023-01-30 10:35:37,240 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:32] - INFO: 接口请求 params 参数 ==>> {'Content-Type': 'application/json'}
+2023-01-30 10:35:37,240 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:33] - INFO: 接口请求体 data 参数 ==>> {
+    "game": "IH",
+    "role_id": 180448,
+    "bundle_id": "com.dhgames.ih.test.android",
+    "sid": "2"
+}
+2023-01-30 10:35:37,240 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:34] - INFO: 接口上传附件 files 参数 ==>> None
+2023-01-30 10:35:37,240 - /Users/wangzhipeng/PycharmProjects/split/DataProcessing/ReadExcel.py[line:35] - INFO: 接口 cookies 参数 ==>> null

@@ -1,0 +1,19 @@
+db_info:
+  dbname: interface_platform
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  pwd: admin123
+
+
+ApiHost:
+  mockhost: http://127.0.0.1:4523/mock/894992
+  testhost: http://10.1.134.98:8787
+  prehost: http://10.1.100.10:8080
+
+user:
+  phonemun: 15911112223
+  pwd: bobo123456
+
+
+
